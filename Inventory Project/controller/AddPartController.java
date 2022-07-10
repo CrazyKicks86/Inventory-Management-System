@@ -44,9 +44,6 @@ public class AddPartController implements Initializable {
         private TextField addPartPriceUsdTxt;
 
         @FXML
-        private TextField addPartTxt;
-
-        @FXML
         private RadioButton inHousePartRbtn;
 
         @FXML
