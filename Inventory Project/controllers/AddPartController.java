@@ -47,9 +47,6 @@ public class AddPartController implements Initializable {
         private RadioButton inHousePartRbtn;
 
         @FXML
-        private Label maxTxt;
-
-        @FXML
         private RadioButton outSourcedPartRbtn;
 
         @FXML
