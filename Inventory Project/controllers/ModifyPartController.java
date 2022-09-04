@@ -20,6 +20,7 @@ import java.util.ResourceBundle;
 import model.Part;
 import javafx.scene.control.*;
 
+
 /** This class implements functions for the ModifyPart.fxml scene. */
 public class ModifyPartController implements Initializable {
 

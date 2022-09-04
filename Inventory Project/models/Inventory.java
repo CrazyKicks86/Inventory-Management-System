@@ -48,6 +48,7 @@ public class Inventory {
         }
     }
 
+
     /** Method used to update an existing part and keep the location present without overlapping another part in the table.
      * @param index index will keep the part from taking another parts location within the table.
      * @param uPart is the part that will be selected to update inside the table.

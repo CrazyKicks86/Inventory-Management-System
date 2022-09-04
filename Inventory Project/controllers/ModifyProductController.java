@@ -258,7 +258,7 @@ public class ModifyProductController implements Initializable {
         }
 
         /** This is the initialize method that sets allParts and associatedParts to the tables.
-         * @param resourceBundle resource bundle
+         * @param resourceBundle resource bundle -
          * @param url url
          */
         @Override

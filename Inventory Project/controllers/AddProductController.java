@@ -23,6 +23,7 @@ import model.Product;
 /** This class implements functions for the AddProduct.fxml scene. */
 public class AddProductController implements Initializable {
 
+
         /** Observable list used to hold associated parts for listeners. */
         private ObservableList<Part> associatedPartsList = FXCollections.observableArrayList();
         Stage stage;

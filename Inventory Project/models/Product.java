@@ -27,6 +27,7 @@ public class Product {
         this.max = max;
     }
 
+
     /** Getter method
      * @return Product Id as an integer.
      */

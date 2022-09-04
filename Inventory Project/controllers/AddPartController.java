@@ -73,6 +73,7 @@ public class AddPartController implements Initializable {
             inOut.setText("Company Name");
         }
 
+
         /** This method is used to cancel any added values from the add parts scene and go back to the main scene.
          * @param event when the cancel button is clicked.
          */

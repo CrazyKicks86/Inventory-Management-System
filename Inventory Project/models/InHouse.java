@@ -12,6 +12,7 @@ public class InHouse extends Part {
         this.machineId = machineId;
     }
 
+
     /** Setter method
      * @param machineId
      */

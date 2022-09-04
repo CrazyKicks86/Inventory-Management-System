@@ -51,7 +51,7 @@ public abstract class Part {
     }
 
     /** Getter method
-     * @return The part price as a double.
+     * @return The part price as double.
      */
     public double getPrice() {
         return price;

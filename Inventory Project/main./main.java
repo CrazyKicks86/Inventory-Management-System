@@ -32,7 +32,7 @@ class Main extends Application {
     public static void main(String[] args) { launch(args); }
     {
 
-        OutSourced brakes = new OutSourced(4825, "Brakes", 182.45, 7, 5, 20, "Bike Outlet");
+        OutSourced brakes = new OutSourced(4825, "Brakes", 182.48, 7, 5, 20, "Bike Outlet");
         OutSourced tires = new OutSourced(4796, "Tires", 223.18, 6, 2, 20, "Bike Outlet");
         OutSourced pedals = new OutSourced(4413, "Pedals (x2)", 22.41, 5, 3, 20, "Bike Outlet");
 

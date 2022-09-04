@@ -261,7 +261,7 @@ public class MainMenuController implements Initializable {
         }
 
         /** This method is used to search for an existing part by ID or name within the parts table.
-         * @param actionEvent is when the searched field is used.
+         * @param actionEvent is when the searched field is used. -
          */
         public void searchPartID(ActionEvent actionEvent) {
 
